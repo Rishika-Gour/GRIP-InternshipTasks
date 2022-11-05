@@ -1,2 +1,2 @@
 # GRIP-InternshipTasks
-## Task-1 : Prediction using Supervised ML (Level - Beginner)
+## Task-1 : Prediction using Supervised Machine Learning
